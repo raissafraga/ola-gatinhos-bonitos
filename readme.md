@@ -1,4 +1,4 @@
 # Este repositório contém o olá gatinhos !
-Ola Gatinhos !
+Olá Gatinhos !
 
 Repositorio da aula sobre GitHub!
